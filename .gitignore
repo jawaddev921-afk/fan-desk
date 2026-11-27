@@ -1,0 +1,24 @@
+node_modules
+.env
+data/
+.next/
+.next-e2e/
+next-env.d.ts
+.vercel
+.env*
+
+# kept out of the public repo
+.env*
+!.env.example
+.vercel/
+.claude/
+.hallmark/
+.playwright-mcp/
+videoessupercreatorinfo/
+.next-demo/
+supabase/
+tsconfig.tsbuildinfo
+CLAUDE.md
+docs/research/
+docs/adr/0004-*
+skills-lock.json

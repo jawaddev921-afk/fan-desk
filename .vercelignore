@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+data
+videoessupercreatorinfo
+.next
+.next-e2e
+node_modules
+.playwright-mcp
+.hallmark
+tsconfig.tsbuildinfo
